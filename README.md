@@ -1,2 +1,2 @@
 # HTML-Projects
-All of my Html, Css and Javascript projects  is in this file
+All of my HTML, CSS and Javascript projects  is in this file
